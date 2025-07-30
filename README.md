@@ -1,5 +1,6 @@
 
 Risco de doenças devido a hábitos diários
+
   Hábitos diários podem contrinuir para o surgimento de doenças, a base escolhida contém 100000 amostras de individuos com informações associadas há 48 indicadores de estilo de vida, demográficos e biométricos.
   O trabalho foi dividido em 8 grandes etapas, listadas abaixo.
 
